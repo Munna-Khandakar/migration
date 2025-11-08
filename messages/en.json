@@ -1,0 +1,204 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "apply": "Apply Now",
+    "contact": "Contact",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "title": "Your Journey to a Better Future Starts Here",
+    "subtitle": "Expert guidance for immigration, work permits, and study abroad opportunities. We make your migration dreams a reality.",
+    "cta": "Start Your Application",
+    "learnMore": "Learn More"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive migration solutions tailored to your needs",
+    "workVisa": {
+      "title": "Work Visa Assistance",
+      "description": "Complete support for securing work permits and employment visas to your dream destination."
+    },
+    "studyAbroad": {
+      "title": "Study Abroad Programs",
+      "description": "Expert guidance for educational opportunities and student visas worldwide."
+    },
+    "familyMigration": {
+      "title": "Family Migration",
+      "description": "Reunite with loved ones through family sponsorship and reunion programs."
+    },
+    "businessImmigration": {
+      "title": "Business Immigration",
+      "description": "Tailored solutions for entrepreneurs, investors, and business professionals."
+    },
+    "documentProcessing": {
+      "title": "Document Processing",
+      "description": "Professional assistance with paperwork, verification, and documentation."
+    },
+    "interviewPrep": {
+      "title": "Interview Preparation",
+      "description": "Expert coaching and guidance to ace your visa interviews with confidence."
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Your Trusted Partner in Migration",
+    "description": "With years of experience in immigration services, we have helped thousands of individuals and families achieve their migration goals. Our team of experts provides personalized guidance throughout your journey.",
+    "whyChoose": "Why Choose Us",
+    "experience": {
+      "title": "Years of Experience",
+      "value": "15+"
+    },
+    "successRate": {
+      "title": "Success Rate",
+      "value": "98%"
+    },
+    "clientsServed": {
+      "title": "Clients Served",
+      "value": "10,000+"
+    },
+    "countries": {
+      "title": "Destination Countries",
+      "value": "50+"
+    }
+  },
+  "form": {
+    "title": "Apply for Consultation",
+    "subtitle": "Fill out the form below and our team will contact you shortly",
+    "personalInfo": "Personal Information",
+    "professionalInfo": "Professional Information",
+    "migrationDetails": "Migration Details",
+    "labels": {
+      "fullName": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "dateOfBirth": "Date of Birth",
+      "nationality": "Nationality",
+      "currentLocation": "Current Location",
+      "education": "Highest Education Level",
+      "fieldOfStudy": "Field of Study",
+      "experience": "Years of Experience",
+      "occupation": "Current Occupation",
+      "skills": "Skills",
+      "languages": "Language Proficiency",
+      "destination": "Preferred Destination",
+      "purpose": "Migration Purpose",
+      "timeline": "Expected Timeline",
+      "additionalInfo": "Additional Information",
+      "terms": "I agree to the terms and conditions",
+      "privacy": "I acknowledge the privacy policy"
+    },
+    "placeholders": {
+      "fullName": "Enter your full name",
+      "email": "your.email@example.com",
+      "phone": "+880 1XXX-XXXXXX",
+      "nationality": "Select your nationality",
+      "currentLocation": "City, Country",
+      "education": "Select education level",
+      "fieldOfStudy": "e.g., Computer Science",
+      "experience": "0",
+      "occupation": "e.g., Software Engineer",
+      "skills": "e.g., Programming, Management",
+      "destination": "Select destination country",
+      "additionalInfo": "Tell us more about your migration goals..."
+    },
+    "purposes": {
+      "work": "Work",
+      "study": "Study",
+      "family": "Family Reunion",
+      "business": "Business",
+      "other": "Other"
+    },
+    "timelines": {
+      "immediate": "Immediate (1-3 months)",
+      "short": "Short-term (3-6 months)",
+      "medium": "Medium-term (6-12 months)",
+      "long": "Long-term (1-2 years)"
+    },
+    "educationLevels": {
+      "highSchool": "High School",
+      "bachelor": "Bachelor's Degree",
+      "master": "Master's Degree",
+      "phd": "PhD",
+      "other": "Other"
+    },
+    "languages": {
+      "english": "English",
+      "bangla": "Bangla",
+      "hindi": "Hindi",
+      "arabic": "Arabic",
+      "other": "Other"
+    },
+    "submit": "Submit Application",
+    "submitting": "Submitting...",
+    "success": "Application submitted successfully! We'll contact you soon.",
+    "error": "Failed to submit application. Please try again."
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Simple steps to start your migration journey",
+    "step1": {
+      "title": "Consultation",
+      "description": "Book a free consultation with our migration experts"
+    },
+    "step2": {
+      "title": "Assessment",
+      "description": "We evaluate your profile and recommend the best pathway"
+    },
+    "step3": {
+      "title": "Documentation",
+      "description": "Our team helps you prepare and submit all required documents"
+    },
+    "step4": {
+      "title": "Success",
+      "description": "Get your visa approved and start your new journey"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our team",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "hours": "Business Hours",
+    "hoursValue": "Monday - Friday: 9:00 AM - 6:00 PM",
+    "sendMessage": "Send us a message",
+    "name": "Your Name",
+    "message": "Your Message",
+    "send": "Send Message"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers to common questions"
+  },
+  "footer": {
+    "description": "Your trusted partner for immigration, work permits, and study abroad services.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "legal": "Legal",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved."
+  },
+  "cta": {
+    "title": "Ready to Start Your Journey?",
+    "subtitle": "Join thousands of successful applicants who trusted us with their migration dreams.",
+    "button": "Apply Now"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try Again",
+    "close": "Close",
+    "cancel": "Cancel",
+    "save": "Save",
+    "required": "This field is required"
+  }
+}
