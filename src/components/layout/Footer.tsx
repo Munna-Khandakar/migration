@@ -47,10 +47,10 @@ export function Footer() {
               <div className="flex items-center space-x-2">
                 <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-primary">
                   <span className="text-xl font-bold text-primary-foreground">
-                    M
+                    MJ
                   </span>
                 </div>
-                <span className="font-bold">Migration Portal</span>
+                <span className="font-bold">{t('brand.name')}</span>
               </div>
               <p className="text-sm text-muted-foreground">
                 {footer('description')}
@@ -111,7 +111,7 @@ export function Footer() {
                   <p>123 Migration Street</p>
                   <p>Dhaka, Bangladesh</p>
                   <p>Phone: +880 1XXX-XXXXXX</p>
-                  <p>Email: info@migrationportal.com</p>
+                  <p>Email: info@myjourney.com</p>
                 </address>
               </div>
               <div>
@@ -136,7 +136,7 @@ export function Footer() {
 
           <div className="flex flex-col items-center justify-between gap-4 sm:flex-row">
             <p className="text-sm text-muted-foreground">
-              © {currentYear} Migration Portal. {footer('rights')}
+              © {currentYear} {t('brand.name')}. {footer('rights')}
             </p>
           </div>
         </div>

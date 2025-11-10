@@ -1,4 +1,8 @@
 {
+  "brand": {
+    "name": "My Journey",
+    "tagline": "Your Path to Global Opportunities"
+  },
   "navigation": {
     "home": "Home",
     "about": "About",
@@ -16,35 +20,88 @@
   "services": {
     "title": "Our Services",
     "subtitle": "Comprehensive migration solutions tailored to your needs",
+    "intro": "We offer a complete range of immigration and migration services designed to make your journey seamless and successful. Our expert team guides you through every step of the process.",
     "workVisa": {
       "title": "Work Visa Assistance",
-      "description": "Complete support for securing work permits and employment visas to your dream destination."
+      "description": "Complete support for securing work permits and employment visas to your dream destination.",
+      "details": "Navigate complex work visa requirements with our expert guidance. We handle everything from employer sponsorship to permit applications, ensuring you meet all legal requirements for working abroad."
     },
     "studyAbroad": {
       "title": "Study Abroad Programs",
-      "description": "Expert guidance for educational opportunities and student visas worldwide."
+      "description": "Expert guidance for educational opportunities and student visas worldwide.",
+      "details": "Unlock global education opportunities with our comprehensive study abroad services. From university selection to student visa applications, we support your academic journey every step of the way."
     },
     "familyMigration": {
       "title": "Family Migration",
-      "description": "Reunite with loved ones through family sponsorship and reunion programs."
+      "description": "Reunite with loved ones through family sponsorship and reunion programs.",
+      "details": "Bring your family together with our specialized family migration services. We assist with spouse visas, parent sponsorship, and dependent applications to help you reunite with your loved ones."
     },
     "businessImmigration": {
       "title": "Business Immigration",
-      "description": "Tailored solutions for entrepreneurs, investors, and business professionals."
+      "description": "Tailored solutions for entrepreneurs, investors, and business professionals.",
+      "details": "Expand your business horizons internationally with our business immigration expertise. We provide strategic guidance for investor visas, entrepreneur programs, and business establishment abroad."
     },
     "documentProcessing": {
       "title": "Document Processing",
-      "description": "Professional assistance with paperwork, verification, and documentation."
+      "description": "Professional assistance with paperwork, verification, and documentation.",
+      "details": "Let us handle the complex paperwork while you focus on your future. Our document processing services ensure all your certificates, translations, and verifications are completed accurately and on time."
     },
     "interviewPrep": {
       "title": "Interview Preparation",
-      "description": "Expert coaching and guidance to ace your visa interviews with confidence."
+      "description": "Expert coaching and guidance to ace your visa interviews with confidence.",
+      "details": "Build confidence for your visa interview with our comprehensive preparation services. Mock interviews, personalized coaching, and insider tips to help you succeed."
+    },
+    "additionalServices": {
+      "title": "Additional Services",
+      "settlement": {
+        "title": "Settlement Support",
+        "description": "Comprehensive assistance to help you settle into your new country, including housing, banking, and cultural orientation."
+      },
+      "legal": {
+        "title": "Legal Consultation",
+        "description": "Expert legal advice on immigration matters, visa appeals, and compliance requirements."
+      },
+      "career": {
+        "title": "Career Guidance",
+        "description": "Professional career counseling to help you find opportunities and build your career abroad."
+      }
     }
   },
   "about": {
     "title": "About Us",
     "subtitle": "Your Trusted Partner in Migration",
     "description": "With years of experience in immigration services, we have helped thousands of individuals and families achieve their migration goals. Our team of experts provides personalized guidance throughout your journey.",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To empower individuals and families by providing exceptional migration services that open doors to global opportunities, ensuring every journey is smooth, successful, and life-changing."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be the most trusted and innovative migration consultancy, recognized for transforming dreams into reality through expert guidance and unwavering commitment to client success."
+    },
+    "values": {
+      "title": "Our Core Values",
+      "integrity": {
+        "title": "Integrity",
+        "description": "We maintain the highest ethical standards in all our interactions and services."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "We strive for perfection in every application and consultation we handle."
+      },
+      "transparency": {
+        "title": "Transparency",
+        "description": "Clear communication and honest guidance throughout your migration journey."
+      },
+      "dedication": {
+        "title": "Dedication",
+        "description": "Committed to your success from the first consultation to your final destination."
+      }
+    },
+    "team": {
+      "title": "Meet Our Expert Team",
+      "description": "Our diverse team of certified immigration consultants, lawyers, and support staff bring decades of combined experience in international migration law and procedures."
+    },
     "whyChoose": "Why Choose Us",
     "experience": {
       "title": "Years of Experience",
@@ -158,22 +215,117 @@
   "contact": {
     "title": "Contact Us",
     "subtitle": "Get in touch with our team",
-    "address": "Address",
-    "phone": "Phone",
-    "email": "Email",
-    "hours": "Business Hours",
-    "hoursValue": "Monday - Friday: 9:00 AM - 6:00 PM",
-    "sendMessage": "Send us a message",
-    "name": "Your Name",
-    "message": "Your Message",
-    "send": "Send Message"
+    "intro": "Have questions about your migration journey? We're here to help. Reach out to us through any of the channels below, and our expert team will respond promptly.",
+    "info": {
+      "title": "Contact Information",
+      "address": "Address",
+      "addressValue": "123 Business Avenue, Suite 456, Dhaka 1212, Bangladesh",
+      "phone": "Phone",
+      "phoneValue": "+880 1234-567890",
+      "email": "Email",
+      "emailValue": "info@myjourney.com",
+      "hours": "Business Hours",
+      "hoursValue": "Monday - Friday: 9:00 AM - 6:00 PM",
+      "saturday": "Saturday: 10:00 AM - 4:00 PM",
+      "sunday": "Sunday: Closed"
+    },
+    "form": {
+      "title": "Send us a message",
+      "subtitle": "Fill out the form below and we'll get back to you within 24 hours",
+      "name": "Your Name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email Address",
+      "emailPlaceholder": "your.email@example.com",
+      "phone": "Phone Number",
+      "phonePlaceholder": "+880 1XXX-XXXXXX",
+      "subject": "Subject",
+      "subjectPlaceholder": "What is this regarding?",
+      "message": "Your Message",
+      "messagePlaceholder": "Tell us how we can help you...",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully! We'll respond soon.",
+      "error": "Failed to send message. Please try again."
+    },
+    "offices": {
+      "title": "Our Offices",
+      "main": {
+        "title": "Main Office",
+        "location": "Dhaka, Bangladesh"
+      },
+      "branch": {
+        "title": "Branch Office",
+        "location": "Chittagong, Bangladesh"
+      }
+    },
+    "social": {
+      "title": "Follow Us",
+      "description": "Stay connected with us on social media for updates, tips, and success stories."
+    }
   },
   "faq": {
     "title": "Frequently Asked Questions",
-    "subtitle": "Find answers to common questions"
+    "subtitle": "Find answers to common questions about our services and the migration process",
+    "categories": {
+      "general": "General Questions",
+      "services": "Our Services",
+      "process": "Application Process",
+      "visa": "Visa & Immigration",
+      "costs": "Costs & Fees"
+    },
+    "questions": {
+      "q1": {
+        "question": "What services does My Journey provide?",
+        "answer": "We offer comprehensive immigration services including work visa assistance, study abroad programs, family migration, business immigration, document processing, and interview preparation. We also provide settlement support, legal consultation, and career guidance."
+      },
+      "q2": {
+        "question": "How long does the migration process typically take?",
+        "answer": "The timeline varies depending on the destination country and visa type. Generally, it can take anywhere from 3 months to 2 years. During your consultation, we'll provide a more accurate timeline based on your specific situation."
+      },
+      "q3": {
+        "question": "What documents do I need for immigration?",
+        "answer": "Required documents typically include a valid passport, educational certificates, work experience letters, police clearance certificate, medical examination reports, language proficiency tests (IELTS/TOEFL), and financial documents. The exact requirements vary by country and visa type."
+      },
+      "q4": {
+        "question": "Do you help with job placement abroad?",
+        "answer": "While we don't directly place candidates in jobs, we provide career guidance and connect you with reputable recruitment agencies. We also assist with work permit applications and ensure you meet all requirements for working abroad."
+      },
+      "q5": {
+        "question": "What is your success rate?",
+        "answer": "We maintain a 98% success rate across all our services. This high success rate is achieved through thorough case assessment, meticulous documentation, and expert guidance throughout the application process."
+      },
+      "q6": {
+        "question": "How much does your service cost?",
+        "answer": "Service fees vary depending on the type of visa, destination country, and complexity of your case. We offer transparent pricing with no hidden charges. Contact us for a free consultation and detailed fee structure."
+      },
+      "q7": {
+        "question": "Can I bring my family with me?",
+        "answer": "Yes, most countries offer family reunion or dependent visa options. We specialize in family migration and can guide you through the process of bringing your spouse, children, or parents to join you."
+      },
+      "q8": {
+        "question": "Do I need to speak English?",
+        "answer": "English proficiency requirements vary by country and visa type. Most countries require IELTS or TOEFL scores for work and study visas. We can guide you on the required scores and recommend preparation courses if needed."
+      },
+      "q9": {
+        "question": "What if my visa application is rejected?",
+        "answer": "If your application is rejected, we analyze the reasons and advise on the best course of action. This may include reapplying with additional documentation, appealing the decision, or exploring alternative pathways. We provide full support throughout."
+      },
+      "q10": {
+        "question": "Do you provide post-landing services?",
+        "answer": "Yes, we offer comprehensive settlement support including assistance with housing, banking, healthcare registration, and cultural orientation. We stay connected with our clients even after they reach their destination."
+      },
+      "q11": {
+        "question": "Which countries do you specialize in?",
+        "answer": "We work with over 50 destination countries including Canada, Australia, USA, UK, Germany, New Zealand, and many more. Our team has expertise in various immigration programs across different regions."
+      },
+      "q12": {
+        "question": "How do I get started?",
+        "answer": "Simply fill out our consultation form or contact us directly. We'll schedule a free initial assessment to understand your goals, evaluate your eligibility, and recommend the best immigration pathway for you."
+      }
+    }
   },
   "footer": {
-    "description": "Your trusted partner for immigration, work permits, and study abroad services.",
+    "description": "My Journey - Your trusted partner for immigration, work permits, and study abroad services.",
     "quickLinks": "Quick Links",
     "services": "Services",
     "legal": "Legal",

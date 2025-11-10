@@ -1,4 +1,4 @@
-# Migration Portal - Human Migration Website
+# My Journey - Human Migration Website
 
 A modern, minimal migration portal website built with Next.js, Tailwind CSS, and shadcn/ui. This portal allows users to apply for meetings with the company by submitting their contact information and skills.
 
@@ -47,7 +47,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the r
 ## Project Structure
 
 ```
-migration-portal/
+my-journey/
 ├── src/
 │   ├── app/
 │   │   ├── [locale]/           # Internationalized routes

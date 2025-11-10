@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import { locales } from '@/i18n/config';
 
 export const metadata: Metadata = {
-  title: 'Migration Portal - Your Journey to a Better Future',
+  title: 'My Journey - Your Path to Global Opportunities',
   description:
     'Expert guidance for immigration, work permits, and study abroad opportunities. We make your migration dreams a reality.',
 };
