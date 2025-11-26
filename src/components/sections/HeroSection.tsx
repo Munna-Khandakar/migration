@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { useTranslations } from 'next-intl';
 import { motion, useInView } from 'framer-motion';
-import { ArrowRight, Sparkles } from 'lucide-react';
+import { ArrowRight, Sparkles, Calculator, TrendingUp } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Container } from '../layout/Container';
 import { AnimatedBackground } from '../animations/AnimatedBackground';
@@ -202,6 +202,24 @@ export function HeroSection() {
             >
               <Button asChild size="lg" variant="outline" className="text-base backdrop-blur-sm">
                 <Link href="/services">{t('learnMore')}</Link>
+              </Button>
+            </motion.div>
+            <motion.div
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+              transition={{ type: 'spring', stiffness: 400, damping: 17 }}
+            >
+              <Button
+                asChild
+                size="lg"
+                variant="outline"
+                className="group relative text-base backdrop-blur-sm border-2 border-primary/50 hover:border-primary"
+              >
+                <Link href="/visa-calculator">
+                  <Calculator className="mr-2 h-4 w-4" />
+                  <span className="relative z-10">{t('visaCalculatorCta')}</span>
+                  <TrendingUp className="ml-2 h-4 w-4 transition-transform group-hover:translate-y-[-2px]" />
+                </Link>
               </Button>
             </motion.div>
           </motion.div>

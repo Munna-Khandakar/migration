@@ -5,7 +5,7 @@ import { motion } from 'framer-motion';
 import Link from 'next/link';
 import { Container } from '../layout/Container';
 import { Button } from '@/components/ui/button';
-import { ArrowRight, Sparkles } from 'lucide-react';
+import { ArrowRight, Sparkles, Calculator } from 'lucide-react';
 
 export function CTASection() {
   const t = useTranslations('cta');
@@ -113,6 +113,17 @@ export function CTASection() {
             >
               <Button asChild size="lg" variant="outline" className="text-base">
                 <Link href="/contact">Contact Us</Link>
+              </Button>
+            </motion.div>
+            <motion.div
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+            >
+              <Button asChild size="lg" variant="outline" className="text-base border-primary/50 hover:border-primary">
+                <Link href="/visa-calculator">
+                  <Calculator className="mr-2 h-4 w-4" />
+                  Check My Visa Chances
+                </Link>
               </Button>
             </motion.div>
           </motion.div>

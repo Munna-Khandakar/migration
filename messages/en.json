@@ -15,7 +15,8 @@
     "title": "Your Journey to a Better Future Starts Here",
     "subtitle": "Expert guidance for immigration, work permits, and study abroad opportunities. We make your migration dreams a reality.",
     "cta": "Start Your Application",
-    "learnMore": "Learn More"
+    "learnMore": "Learn More",
+    "visaCalculatorCta": "Check My Visa Chances"
   },
   "services": {
     "title": "Our Services",
@@ -352,5 +353,119 @@
     "cancel": "Cancel",
     "save": "Save",
     "required": "This field is required"
+  },
+  "visaCalculator": {
+    "hero": {
+      "badge": "Free Visa Assessment Tool",
+      "title": "Discover Your Visa Probability in 5 Minutes",
+      "subtitle": "Answer a few questions about your background and get personalized insights into your visa eligibility with expert recommendations",
+      "trustIndicators": {
+        "assessments": "50,000+ assessments completed",
+        "accuracy": "98% accuracy rate",
+        "expert": "Backed by immigration experts",
+        "confidential": "100% confidential"
+      }
+    },
+    "steps": {
+      "personal": {
+        "title": "Tell Us About Yourself",
+        "description": "Let's start with your background and where you're planning to go",
+        "label": "Personal"
+      },
+      "education": {
+        "title": "Your Education & Career",
+        "description": "Share your professional journey and qualifications",
+        "label": "Education"
+      },
+      "qualifications": {
+        "title": "Tests & Certifications",
+        "description": "Tell us about your language tests and credentials",
+        "label": "Tests"
+      },
+      "financial": {
+        "title": "Financial Readiness",
+        "description": "Almost there! Final details about your resources",
+        "label": "Financial"
+      }
+    },
+    "fields": {
+      "currentCountry": "What's your current country of residence?",
+      "citizenship": "What's your citizenship/nationality?",
+      "targetCountry": "Which country are you planning to move to?",
+      "age": "How old are you?",
+      "maritalStatus": "What's your marital status?",
+      "hasDependents": "Do you have dependents?",
+      "dependentsCount": "How many dependents?",
+      "educationLevel": "What's your highest level of education?",
+      "fieldOfStudy": "What's your field of study?",
+      "yearsOfExperience": "How many years of work experience do you have?",
+      "workDomain": "What's your work domain/industry?",
+      "employmentStatus": "What's your current employment status?",
+      "annualIncome": "What's your annual income range?",
+      "englishTest": "Have you taken an English proficiency test?",
+      "englishScore": "What was your score?",
+      "visaType": "What type of visa are you applying for?",
+      "previousApplications": "Have you applied for a visa before?",
+      "hasJobOffer": "Do you have a job offer in the target country?",
+      "financialResources": "What are your available financial resources?",
+      "timeline": "What's your expected timeline?",
+      "hasFamilyInTarget": "Do you have family or friends in the target country?",
+      "additionalInfo": "Any additional information? (optional)"
+    },
+    "placeholders": {
+      "selectCountry": "Select your country...",
+      "selectEducation": "Select education level...",
+      "enterField": "e.g., Computer Science",
+      "selectDomain": "Select your domain...",
+      "selectTest": "IELTS, TOEFL, PTE, or None",
+      "enterScore": "e.g., 7.5",
+      "selectVisa": "Work, Study, Family, etc.",
+      "additionalInfo": "Tell us anything else that might be relevant..."
+    },
+    "buttons": {
+      "continue": "Continue",
+      "back": "Back",
+      "calculate": "Calculate My Chances",
+      "calculating": "Calculating...",
+      "startOver": "Start New Assessment",
+      "downloadReport": "Download Full Report",
+      "bookConsultation": "Book Free Consultation",
+      "shareResults": "Share Results"
+    },
+    "results": {
+      "calculating": {
+        "title": "Calculating Your Results",
+        "message1": "Analyzing your profile...",
+        "message2": "Comparing with 10,000+ successful cases...",
+        "message3": "Consulting immigration requirements...",
+        "message4": "Generating personalized recommendations..."
+      },
+      "high": {
+        "title": "Excellent News! You're a Strong Candidate",
+        "description": "Based on your profile, you have a high probability of visa approval for {country}. Your education, experience, and qualifications align well with immigration requirements."
+      },
+      "medium": {
+        "title": "Good Potential with Room for Improvement",
+        "description": "You have a decent chance of visa approval for {country}, but strengthening certain areas could significantly improve your application success rate."
+      },
+      "low": {
+        "title": "Let's Work Together to Strengthen Your Profile",
+        "description": "While your current profile needs development, don't be discouraged! With strategic improvements and expert guidance, you can significantly enhance your visa chances."
+      },
+      "strengths": "Your Strengths",
+      "weaknesses": "Areas to Improve",
+      "recommendations": "Personalized Recommendations",
+      "recommendationsSubtitle": "Expert advice to improve your visa chances",
+      "nextSteps": "Ready to Start Your Journey?",
+      "nextStepsDescription": "Book a free consultation with our expert immigration advisors to discuss your personalized pathway and improve your application success rate.",
+      "emailCapture": {
+        "title": "Get Your Detailed Report via Email",
+        "description": "Receive a comprehensive PDF report with in-depth analysis, checklist, and timeline for your application process.",
+        "placeholder": "your.email@example.com",
+        "button": "Send Report",
+        "privacy": "We respect your privacy. No spam, unsubscribe anytime."
+      }
+    },
+    "disclaimer": "Disclaimer: This assessment provides an estimated probability based on general immigration criteria and does not guarantee visa approval. Actual outcomes depend on many factors including immigration policies, documentation quality, and individual circumstances. For accurate evaluation and application support, consult with our licensed immigration advisors."
   }
 }
